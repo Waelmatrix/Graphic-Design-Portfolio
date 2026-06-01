@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.png" width="200" align="right">
 
 <table>
-  <tr>
-  
 
 <div align="center">
 
@@ -14,8 +12,7 @@
 
 </div>
 
-   
-  </tr>
+
 </table>
 
 Welcome to my graphic design portfolio.  
