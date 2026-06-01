@@ -7,7 +7,9 @@
 <div align="center">
 
 <strong style="font-size:30 px;">
-Wael Hefzy | Graphic Design Portfolio
+  <h1 style="margin:0;">
+    Wael Hefzy | Graphic Design Portfolio
+  </h1>
 </strong>
 
 </div>
