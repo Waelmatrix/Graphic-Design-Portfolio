@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+  
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Wael Hefzy | Graphic Design Portfolio
 
 </div>
 
-    </td>
+   
   </tr>
 </table>
 
