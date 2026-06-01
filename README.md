@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<strong style="font-size:30 px;">
-  <h1 style="margin:0;">
+<strong style="font-size:50 px;">
+
     Wael Hefzy | Graphic Design Portfolio
-  </h1>
+
 </strong>
 
 </div>
