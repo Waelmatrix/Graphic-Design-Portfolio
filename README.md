@@ -13,16 +13,15 @@ I focus on creating clean, professional, and impactful designs that help busines
 ---
 
 ##  Featured Projects
-
-###  Restaurant & Menu Design
-- Kunafa Addiction Menu (Saudi Arabia)
-- Tasalina Menu Design
-- Restaurant menu concepts and promotional layouts
-
 ###  Branding & Identity
 - WANAS Brand Identity
 - Logo design and visual identity systems
 - Pattern and packaging design concepts
+  
+###  Restaurant & Menu Design
+- Kunafa Addiction Menu (Saudi Arabia)
+- Tasalina Menu Design
+- Restaurant menu concepts and promotional layouts
 
 ###  Print & Corporate Design
 - IFEM Emergency Medicine Certificate Design
