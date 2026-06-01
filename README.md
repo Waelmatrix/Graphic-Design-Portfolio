@@ -1,3 +1,28 @@
+<table>
+  <tr>
+    <td>
+
+# Wael Hefzy | Graphic Design Portfolio
+
+Welcome to my graphic design portfolio.  
+This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
+
+    </td>
+    <td width="180">
+
+<img src="" width="160" style="border-radius:50%;">
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 # Wael Hefzy | Graphic Design Portfolio
 
 Welcome to my graphic design portfolio.  
