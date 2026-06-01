@@ -1,0 +1,63 @@
+# Wael Hefzy | Graphic Design Portfolio
+
+Welcome to my graphic design portfolio.  
+This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
+
+---
+
+## 👨‍💻 About Me
+
+I am Wael Hefzy, a graphic designer specializing in branding, visual identity systems, and marketing design.  
+I focus on creating clean, professional, and impactful designs that help businesses communicate their identity clearly and attractively.
+
+---
+
+## 🧩 Featured Projects
+
+### 🍽️ Restaurant & Menu Design
+- Kunafa Addiction Menu (Saudi Arabia)
+- Tasalina Menu Design
+- Restaurant menu concepts and promotional layouts
+
+### 🎨 Branding & Identity
+- WANAS Brand Identity
+- Logo design and visual identity systems
+- Pattern and packaging design concepts
+
+### 📄 Print & Corporate Design
+- IFEM Emergency Medicine Certificate Design
+- Brochures and promotional materials
+- Layout design for printed documents
+
+---
+
+## 🛠️ Skills
+
+- Brand Identity Design  
+- Logo Design  
+- Menu Design  
+- Brochure & Flyer Design  
+- Print Design  
+- Layout & Visual Composition  
+
+---
+
+## 🧰 Tools
+
+- Adobe Illustrator  
+- Adobe Photoshop  
+- Adobe InDesign  
+
+---
+
+## 📬 Contact
+
+- Email: your-email@example.com  
+- Freelancer: your-profile-link  
+- Upwork/Fiverr: your-profile-link  
+
+---
+
+## 📌 Note
+
+This portfolio is continuously updated with new projects and design work.
