@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.png" width="200" align="right">
 
 <div align="center" style="margin-bottom:20px;">
-  <span style="font-size:32px; font-weight:700;">
+  <span style="font-size:50x; font-weight:700;">
     Wael Hefzy | Graphic Design Portfolio
   </span>
 </div>
