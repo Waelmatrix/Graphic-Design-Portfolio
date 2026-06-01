@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.png" width="200" align="right">
 
-<div align="center">
-  <h1 style="margin-bottom: 0;">
+<div align="center" style="margin-bottom:20px;">
+  <span style="font-size:32px; font-weight:700;">
     Wael Hefzy | Graphic Design Portfolio
-  </h1>
+  </span>
 </div>
 
 Welcome to my graphic design portfolio.  
