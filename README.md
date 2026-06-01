@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.png" width="200" align="right">
+
 # Wael Hefzy | Graphic Design Portfolio
 
 Welcome to my graphic design portfolio.  
