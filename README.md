@@ -5,7 +5,7 @@
 Welcome to my graphic design portfolio.  
 This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
 
----
+
 ##  About Me
 
 I am Wael Hefzy, a graphic designer specializing in branding, visual identity systems, and marketing design.  
