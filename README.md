@@ -1,23 +1,21 @@
 <table>
   <tr>
     <td>
+      <h1>Wael Hefzy | Graphic Design Portfolio</h1>
 
-# Wael Hefzy | Graphic Design Portfolio
-
-Welcome to my graphic design portfolio.  
-This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
-
+      <p>
+        Welcome to my graphic design portfolio.<br>
+        This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
+      </p>
     </td>
 
-    <td align="right" width="180">
+    <td width="180" align="right">
       <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.jpg"
       width="150"
       style="border-radius:50%;">
     </td>
-
   </tr>
 </table>
-
 
 # Wael Hefzy | Graphic Design Portfolio
 
