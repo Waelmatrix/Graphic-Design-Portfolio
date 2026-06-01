@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<strong style="font-size:50 px;">
+<strong style="font-size:100 px;">
 
     Wael Hefzy | Graphic Design Portfolio
 
