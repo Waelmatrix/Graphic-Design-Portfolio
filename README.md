@@ -8,19 +8,15 @@ Welcome to my graphic design portfolio.
 This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
 
     </td>
-    <td width="180" align="right">
 
-<img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.jpg"
-width="160"
-style="border-radius:50%;">
-
+    <td align="right" width="180">
+      <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.jpg"
+      width="150"
+      style="border-radius:50%;">
     </td>
+
   </tr>
 </table>
-
-
-
-
 
 
 # Wael Hefzy | Graphic Design Portfolio
