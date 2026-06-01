@@ -10,7 +10,7 @@ This repository showcases a selection of my work in branding, visual identity, m
     </td>
     <td width="180">
 
-<img src="" width="160" style="border-radius:50%;">
+<img src="https://github.com/Waelmatrix/Graphic-Design-Portfolio/blob/main/wael%20pic.jpg" width="160" style="border-radius:50%;">
 
     </td>
   </tr>
