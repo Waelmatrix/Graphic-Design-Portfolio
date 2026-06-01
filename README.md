@@ -3,8 +3,8 @@
 Welcome to my graphic design portfolio.  
 This repository showcases a selection of my work in branding, visual identity, menu design, and print materials.
 
+<img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.png" width="200" align="right">
 ---
-<img src="https://githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael-pic.png" width="150" align="right">
 ##  About Me
 
 I am Wael Hefzy, a graphic designer specializing in branding, visual identity systems, and marketing design.  
