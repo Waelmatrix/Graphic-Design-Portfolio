@@ -10,7 +10,7 @@
     </td>
 
     <td width="180" align="right">
-      <img src="https://raw.githubusercontent.com/Waelmatrix/Graphic-Design-Portfolio/main/wael%20pic.jpg"
+      <img src="https://github.com/Waelmatrix/Graphic-Design-Portfolio/blob/main/wael%20pic.jpg?raw=true"
       width="150"
       style="border-radius:50%;">
     </td>
